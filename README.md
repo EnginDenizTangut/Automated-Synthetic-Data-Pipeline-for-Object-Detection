@@ -1,6 +1,4 @@
-**# Automated-Synthetic-Data-Pipeline-for-Object-Detection
-A Python-based automation system developed to overcome the ‘data labeling’ bottleneck in computer vision projects, producing labels with 100% accuracy (ground-truth). The training and validation of the YOLOv8 model was performed using synthetic data generated with Domain Randomization techniques.
-**# Temporal Aligner - Video-Sensor Synchronization
+# Temporal Aligner - Video-Sensor Synchronization
 
 A high-performance Python library for temporally aligning video frames with sensor data streams. This system efficiently synchronizes data from different sources with varying sampling rates and handles missing data through interpolation and quality assessment.
 
@@ -237,3 +235,8 @@ Potential improvements:
 - Automatic threshold optimization
 - Support for timezone-aware timestamps
 - Parallel processing for large datasets
+
+## License
+
+This code is provided as-is for educational and research purposes.
+
